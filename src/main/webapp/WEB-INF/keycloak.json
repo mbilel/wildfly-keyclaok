@@ -1,0 +1,7 @@
+{
+  "realm": "first-realm",
+  "auth-server-url": "http://127.0.0.1:7080/auth",
+  "ssl-required": "external",
+  "resource": "second-app",
+  "public-client": true
+}
